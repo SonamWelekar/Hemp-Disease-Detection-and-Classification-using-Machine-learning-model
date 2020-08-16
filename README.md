@@ -1,0 +1,1 @@
+# Hemp-Disease-Detection-and-Classification-using-Machine-learning-model
